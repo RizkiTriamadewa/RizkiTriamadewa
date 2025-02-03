@@ -17,15 +17,15 @@
 
 ### Arduino Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20RC%20NODEMCU-000)](https://github.com/RizkiTriamadewa/RC_NODEMCU)
+[![](https://img.shields.io/badge/-🧬%20RC%20NODEMCU-000)](https://github.com/RizkiTriamadewa/RC_NODEMCU)
 [![](https://img.shields.io/badge/-🦠%20Car%20Line%20Follower-000)](https://github.com/RizkiTriamadewa/Smart-Car-Line-Follower)
 [![](https://img.shields.io/badge/-📝%20Smart%20Car-000)](https://github.com/RizkiTriamadewa/Smart-Car)
 [![](https://img.shields.io/badge/-🔬%20Bluethooth%20Car-000)](https://github.com/RizkiTriamadewa/Bluetooth-Car-Arduino)
 [![](https://img.shields.io/badge/-🗺%20Automated%20Warehouse-000)](https://github.com/RizkiTriamadewa/automated-warehouse)
 
 ### Backend Projects
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/RizkiTriamadewa/Room-Lending-Website)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/RizkiTriamadewa/Business-Status-Records)
+[![](https://img.shields.io/badge/-🛰%20PHP%20Project-1-000)](https://github.com/RizkiTriamadewa/Room-Lending-Website)
+[![](https://img.shields.io/badge/-🔊20PHP%20Project-2-000)](https://github.com/RizkiTriamadewa/Business-Status-Records)
 
 ### Cybersecurity Achievement
 
