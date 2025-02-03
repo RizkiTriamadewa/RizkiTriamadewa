@@ -1,4 +1,4 @@
-[![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndlaXBmN2JpYjk3Y2d1Mmd5YnptaGtnbmFwaTM5Z2lzOTVnZWk3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4JyNNqiVzBMbDOVO/giphy.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndlaXBmN2JpYjk3Y2d1Mmd5YnptaGtnbmFwaTM5Z2lzOTVnZWk3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4JyNNqiVzBMbDOVO/giphy.gif](https://github.com/RizkiTriamadewa/RizkiTriamadewa/blob/main/profile.gif))](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
