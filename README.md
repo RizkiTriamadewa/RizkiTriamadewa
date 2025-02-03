@@ -1,21 +1,39 @@
-<h1 align="center">Hi 👋, I'm Rizki Triamadewa</h1>
-<h3 align="center">I am a Student Majoring in Industrial Informatics</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/bf094fb90ebdffd044f2d4e2d70fe919/tumblr_oxwxpuDCDY1uo9nv2o1_r1_1280.gifv">
+[![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndlaXBmN2JpYjk3Y2d1Mmd5YnptaGtnbmFwaTM5Z2lzOTVnZWk3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4JyNNqiVzBMbDOVO/giphy.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+### Languages
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkitriamadewa&label=Profile%20views&color=0e75b6&style=flat" alt="rizkitriamadewa" /> </p>
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-- 👨‍💻 All of my projects are available at [https://github.com/RizkiTriamadewa?tab=repositories](https://github.com/RizkiTriamadewa?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rizki triamadewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizki triamadewa" height="30" width="40" /></a>
-</p>
+### Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkitriamadewa&show_icons=true&locale=en&layout=compact" alt="rizkitriamadewa" /></p>
+### Arduino Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkitriamadewa&show_icons=true&locale=en" alt="rizkitriamadewa" /></p>
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/RizkiTriamadewa/RC_NODEMCU)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/RizkiTriamadewa/Smart-Car-Line-Follower)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/RizkiTriamadewa/Smart-Car)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/RizkiTriamadewa/Bluetooth-Car-Arduino)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/RizkiTriamadewa/automated-warehouse)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkitriamadewa&" alt="rizkitriamadewa" /></p>
+### Backend Projects
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/RizkiTriamadewa/Room-Lending-Website)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/RizkiTriamadewa/Business-Status-Records)
+
+### Cybersecurity Achievement
+
+[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://www.linkedin.com/posts/rizkitriamadewa_surat-apresiasi-activity-7224044902408450049-LVH1?utm_source=social_share_send&utm_medium=member_desktop_web)
+[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7249336513505701888-bvrf?utm_source=social_share_send&utm_medium=member_desktop_web)
+[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7217067087255543808-dQ5P?utm_source=social_share_send&utm_medium=member_desktop_web)
+[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7218524297970032640--BWZ?utm_source=social_share_send&utm_medium=member_desktop_web)
+[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://www.linkedin.com/posts/rizkitriamadewa_alhamdulillah-pada-2-juli-2024-saya-diundang-activity-7214099749660971009-jsBS?utm_source=social_share_send&utm_medium=member_desktop_web)
+[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7228645214138032128-wb93?utm_source=social_share_send&utm_medium=member_desktop_web)
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
