@@ -24,8 +24,9 @@
 [![](https://img.shields.io/badge/-🗺%20Automated%20Warehouse-000)](https://github.com/RizkiTriamadewa/automated-warehouse)
 
 ### Backend Projects
-[![](https://img.shields.io/badge/-🛰%20PHP%20Project-1-000)](https://github.com/RizkiTriamadewa/Room-Lending-Website)
-[![](https://img.shields.io/badge/-🔊20PHP%20Project-2-000)](https://github.com/RizkiTriamadewa/Business-Status-Records)
+
+[![](https://img.shields.io/badge/-🛰%20PHP%20Project1-000)](https://github.com/RizkiTriamadewa/Room-Lending-Website)
+[![](https://img.shields.io/badge/-🔊%20PHP%20Project2-000)](https://github.com/RizkiTriamadewa/Business-Status-Records)
 
 ### Cybersecurity Achievement
 
