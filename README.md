@@ -42,6 +42,7 @@
 ### Cybersecurity Achievement
 
 [![](https://img.shields.io/badge/-🩸%20NASA%20VDP-000)](https://www.linkedin.com/posts/rizkitriamadewa_surat-apresiasi-activity-7224044902408450049-LVH1?utm_source=social_share_send&utm_medium=member_desktop_web)
+[![](https://img.shields.io/badge/-🩸%20U.S%20ED-GOV-000)](https://www.linkedin.com/posts/rizkitriamadewa_certificate-of-recognition-activity-7293046274155589632-H9um?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES2LzsBn3EevsuG616hOJi8kfKZi6W8xsU)
 [![](https://img.shields.io/badge/-🌊%20DPR-000)](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7249336513505701888-bvrf?utm_source=social_share_send&utm_medium=member_desktop_web)
 [![](https://img.shields.io/badge/-🗂%20KOMINFO-000)](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7217067087255543808-dQ5P?utm_source=social_share_send&utm_medium=member_desktop_web)
 [![](https://img.shields.io/badge/-💉%20BMKG-000)](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7218524297970032640--BWZ?utm_source=social_share_send&utm_medium=member_desktop_web)
