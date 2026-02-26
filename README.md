@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/RizkiTriamadewa/RizkiTriamadewa/main/profile.gif" width="200" alt="Profile GIF"/>
 
   <h1>Hi, I'm Rizki Triamadewa! 👋</h1>
-  <p><b>Cybersecurity Enthusiast | Frontend Developer | Robotics Engineer</b></p>
+  <p><b>Cybersecurity Enthusiast | Fullstack Developer | Robotics Engineer</b></p>
   
   <a href="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=green">
     <img src="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=green" alt="Profile Views" />
@@ -13,13 +13,15 @@
 
 ### 👨‍💻 About Me
 * 🤖 Passionate about robotics, microcontrollers, and IoT development.
+* 🛠️ Currently developing **robotpadi** and exploring new hardware integrations on my Ubuntu setup.
 * 🛡️ Actively hunting bugs and participating in Vulnerability Disclosure Programs (VDP).
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks** ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+**Languages & Frameworks** <br>
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)
@@ -28,14 +30,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 
-**Backend & Databases** ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+**Backend & Databases** <br>
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 
-**Environment & Others** ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+**Environment & Others** <br>
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
 
@@ -44,7 +48,7 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkiTriamadewa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkiTriamadewa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiTriamadewa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
