@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/RizkiTriamadewa/RizkiTriamadewa/main/profile.gif" width="200" alt="Profile GIF"/>
 
   <h1>Hi, I'm Rizki Triamadewa! 👋</h1>
-  <p><b>Cybersecurity Enthusiast | Fullstack Developer | Robotics Engineer</b></p>
+  <p><b>Cybersecurity Enthusiast | Frontend Developer | Robotics Engineer</b></p>
   
   <a href="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=green">
     <img src="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=green" alt="Profile Views" />
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 * 🤖 Passionate about robotics, microcontrollers, and IoT development.
-* 🛠️ Currently developing **robotpadi** and exploring new hardware integrations on my Ubuntu setup.
+* 🛠️ Currently developing and exploring new hardware integrations on my Ubuntu setup.
 * 🛡️ Actively hunting bugs and participating in Vulnerability Disclosure Programs (VDP).
 
 ---
@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkiTriamadewa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkiTriamadewa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiTriamadewa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
