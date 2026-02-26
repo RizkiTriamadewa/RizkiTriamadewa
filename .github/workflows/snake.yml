@@ -1,4 +1,5 @@
 name: Generate Datas
+
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
@@ -11,6 +12,8 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Ini penting agar bisa menyimpan animasi ke branch baru
     steps:
       - uses: Platane/snk@v3
         with:
