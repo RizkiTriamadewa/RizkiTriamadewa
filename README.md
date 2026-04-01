@@ -76,7 +76,3 @@
 * [📝 Smart Car](https://github.com/RizkiTriamadewa/Smart-Car)
 * [🔬 Bluetooth Car](https://github.com/RizkiTriamadewa/Bluetooth-Car-Arduino)
 * [🗺 Automated Warehouse](https://github.com/RizkiTriamadewa/automated-warehouse)
-
-#### 🌐 Backend Solutions
-* [🛰 Room Lending Website (PHP)](https://github.com/RizkiTriamadewa/Room-Lending-Website)
-* [🔊 Business Status Records (PHP)](https://github.com/RizkiTriamadewa/Business-Status-Records)
