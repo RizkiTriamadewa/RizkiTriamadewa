@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/RizkiTriamadewa/RizkiTriamadewa/main/profile.gif" width="200" alt="Profile GIF"/>
 
-  <h1>Hi, I'm Rizki Triamadewa! 👋</h1>
+  <h1>Hi, I'm Rizki Triamadewa!</h1>
   <p><b>Cybersecurity Enthusiast | Frontend Developer | Robotics Engineer</b></p>
   
   <a href="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=green">
@@ -11,14 +11,14 @@
 
 ---
 
-### 👨‍💻 About Me
-* 🤖 Passionate about robotics, microcontrollers, and IoT development.
-* 🛠️ Currently developing and exploring new hardware integrations on my Ubuntu setup.
-* 🛡️ Actively hunting bugs and participating in Vulnerability Disclosure Programs (VDP).
+### About Me
+* Passionate about robotics, microcontrollers, and IoT development.
+* Currently developing and exploring new hardware integrations on my Ubuntu setup.
+* Actively hunting bugs and participating in Vulnerability Disclosure Programs (VDP).
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Frameworks** <br>
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
@@ -44,10 +44,10 @@
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
 
 ---
-
-### 📊 GitHub Stats & Activity
-
 <div align="center">
+
+### GitHub Stats & Activity
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiTriamadewa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
@@ -55,24 +55,22 @@
 
 ---
 
-### 🏆 Cybersecurity Achievements
+### Cybersecurity Achievements
 | Organization | Link |
 | :--- | :--- |
-| **NASA VDP** | [🩸 View Appreciation](https://www.linkedin.com/posts/rizkitriamadewa_surat-apresiasi-activity-7224044902408450049-LVH1) |
-| **US ED GOV** | [🩸 View Certificate](https://www.linkedin.com/posts/rizkitriamadewa_certificate-of-recognition-activity-7293046274155589632-H9um) |
-| **DPR RI** | [🌊 View Appreciation](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7249336513505701888-bvrf) |
-| **KOMINFO** | [🗂 View Appreciation](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7217067087255543808-dQ5P) |
-| **BMKG** | [💉 View Appreciation](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7218524297970032640--BWZ) |
-| **KPK** | [🛡 View Event](https://www.linkedin.com/posts/rizkitriamadewa_alhamdulillah-pada-2-juli-2024-saya-diundang-activity-7214099749660971009-jsBS) |
-| **BRIN** | [🌐 View Appreciation](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7228645214138032128-wb93) |
+| **NASA VDP** | [View](https://www.linkedin.com/posts/rizkitriamadewa_surat-apresiasi-activity-7224044902408450049-LVH1) |
+| **US ED GOV** | [View](https://www.linkedin.com/posts/rizkitriamadewa_certificate-of-recognition-activity-7293046274155589632-H9um) |
+| **DPR RI** | [View](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7249336513505701888-bvrf) |
+| **KOMINFO** | [View](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7217067087255543808-dQ5P) |
+| **BMKG** | [View](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7218524297970032640--BWZ) |
+| **KPK** | [View](https://www.linkedin.com/posts/rizkitriamadewa_alhamdulillah-pada-2-juli-2024-saya-diundang-activity-7214099749660971009-jsBS) |
+| **BRIN** | [View](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7228645214138032128-wb93) |
 
 ---
 
-### 📂 Featured Projects
-
-#### ⚡ Arduino & IoT
-* [🧬 RC NODEMCU](https://github.com/RizkiTriamadewa/RC_NODEMCU)
-* [🦠 Car Line Follower](https://github.com/RizkiTriamadewa/Smart-Car-Line-Follower)
-* [📝 Smart Car](https://github.com/RizkiTriamadewa/Smart-Car)
-* [🔬 Bluetooth Car](https://github.com/RizkiTriamadewa/Bluetooth-Car-Arduino)
-* [🗺 Automated Warehouse](https://github.com/RizkiTriamadewa/automated-warehouse)
+### Featured Projects
+* [RC NODEMCU](https://github.com/RizkiTriamadewa/RC_NODEMCU)
+* [Car Line Follower](https://github.com/RizkiTriamadewa/Smart-Car-Line-Follower)
+* [Smart Car](https://github.com/RizkiTriamadewa/Smart-Car)
+* [Bluetooth Car](https://github.com/RizkiTriamadewa/Bluetooth-Car-Arduino)
+* [Automated Warehouse](https://github.com/RizkiTriamadewa/automated-warehouse)
