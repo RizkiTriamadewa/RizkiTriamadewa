@@ -12,7 +12,7 @@
 ---
 
 ### About Me
-* Sixth semester student specializing in Internet of Things based system development, web and mobile applications, and cybersecurity. Have practical experience in microcontroller programming, game simulation software development, and security penetration testing. Focused on designing secure and innovative technology solutions to optimize the integration between hardware and software.
+Sixth semester student specializing in Internet of Things based system development, web and mobile applications, and cybersecurity. Have practical experience in microcontroller programming, game simulation software development, and security penetration testing. Focused on designing secure and innovative technology solutions to optimize the integration between hardware and software.
 
 ---
 
