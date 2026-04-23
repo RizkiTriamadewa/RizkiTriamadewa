@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/RizkiTriamadewa/RizkiTriamadewa/main/profile.gif" width="200" alt="Profile GIF"/>
 
   <h1>Hi, I'm Rizki Triamadewa!</h1>
-  <p><b>Cybersecurity Enthusiast | Frontend Developer | Robotics Engineer</b></p>
+  <p><b>Frontend Developer | Cybersecurity Enthusiast | Robotics Engineer</b></p>
   
   <a href="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=green">
     <img src="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=green" alt="Profile Views" />
@@ -12,9 +12,7 @@
 ---
 
 ### About Me
-* Passionate about robotics, microcontrollers, and IoT development.
-* Currently developing and exploring new hardware integrations on my Ubuntu setup.
-* Actively hunting bugs and participating in Vulnerability Disclosure Programs (VDP).
+* Sixth semester student specializing in Internet of Things based system development, web and mobile applications, and cybersecurity. Have practical experience in microcontroller programming, game simulation software development, and security penetration testing. Focused on designing secure and innovative technology solutions to optimize the integration between hardware and software.
 
 ---
 
@@ -69,8 +67,7 @@
 ---
 
 ### Featured Projects
-* [RC NODEMCU](https://github.com/RizkiTriamadewa/RC_NODEMCU)
-* [Car Line Follower](https://github.com/RizkiTriamadewa/Smart-Car-Line-Follower)
-* [Smart Car](https://github.com/RizkiTriamadewa/Smart-Car)
-* [Bluetooth Car](https://github.com/RizkiTriamadewa/Bluetooth-Car-Arduino)
-* [Automated Warehouse](https://github.com/RizkiTriamadewa/automated-warehouse)
+* [StatistikPro - Interactive Statistical Calculator](https://github.com/RizkiTriamadewa/statistik_kurtosis)
+* [VR Industrial HSE Simulation](https://github.com/RizkiTriamadewa/ConveyorProject)
+* [Mini-Conveyor-ESP8266](https://github.com/RizkiTriamadewa/Mini-Conveyor-ESP8266)
+* [Dual-Mode Bluetooth Line Follower Robot](https://github.com/RizkiTriamadewa/Smart-Car-Line-Follower)
