@@ -91,14 +91,18 @@ I am passionate about making the digital world safer. Through responsible disclo
 
 ---
 
-### GitHub Activity & Stats
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RizkiTriamadewa&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.herokuapp.com/?username=RizkiTriamadewa&theme=tokyonight&no-bg=true&no-border=true" height="150" alt="trophy graph"  />
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiTriamadewa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=RizkiTriamadewa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="95%" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-###
 
 <div align="center">
   <h3>Contributions Adventure</h3>

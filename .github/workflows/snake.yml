@@ -15,8 +15,13 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Checkout the repository to ensure all actions run correctly
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
       # Generate the Snake Game SVGs
-      - uses: Platane/snk@v3
+      - name: generate snake game
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -30,7 +35,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Generates pacman by default into the dist directory
+          games: 'pacman' # Options: pacman, breakout, galaga
 
       # Push all SVGs (both Snake and Pacman) to the output branch
       - name: push SVGs to the output branch
