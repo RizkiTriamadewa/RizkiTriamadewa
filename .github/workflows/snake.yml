@@ -17,7 +17,14 @@ jobs:
     steps:
       # Checkout the repository to ensure all actions run correctly
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      # Fix folder permissions to prevent EACCES (Permission Denied) errors in subsequent steps
+      - name: Fix permissions
+        run: |
+          sudo mkdir -p dist
+          sudo chmod -R 777 dist
+          sudo chown -R runner:docker dist
 
       # Generate the Snake Game SVGs
       - name: generate snake game
