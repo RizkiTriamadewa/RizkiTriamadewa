@@ -44,61 +44,40 @@ I am a sixth-semester student specializing in **Internet of Things (IoT)** syste
 
 ---
 
-### Cybersecurity Contributions & Hall of Fame
+### Cybersecurity Contributions & Recognition
 
-I am passionate about making the digital world safer. Through responsible disclosure, I have identified security vulnerabilities and received formal recognition/appreciation from prestigious national and international organizations:
-
-| Authority / Organization | Recognition & Achievement | Verification |
-| :--- | :--- | :--- |
-| NASA VDP | Appreciation Letter - Vulnerability Disclosure Program | [View Post & Certificate](https://www.linkedin.com/posts/rizkitriamadewa_surat-apresiasi-activity-7224044902408450049-LVH1) |
-| U.S. Dept of Education (US ED GOV) | Certificate of Recognition - Federal VDP | [View Post & Certificate](https://www.linkedin.com/posts/rizkitriamadewa_certificate-of-recognition-activity-7293046274155589632-H9um) |
-| KPK (Anti-Corruption Commission) | Official Guest & Appreciation - Special Security Appreciation Invitation | [View Post & Certificate](https://www.linkedin.com/posts/rizkitriamadewa_alhamdulillah-pada-2-juli-2024-saya-diundang-activity-7214099749660971009-jsBS) |
-| DPR RI (Indonesian Parliament) | Sertifikat Apresiasi - IT Security Enhancement | [View Post & Certificate](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7249336513505701888-bvrf) |
-| BMKG (Meteorological Agency) | Sertifikat Apresiasi - Critical Infrastructure Securing | [View Post & Certificate](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7218524297970032640--BWZ) |
-| KOMINFO (Ministry of ICT) | Sertifikat Apresiasi - Cybersecurity Support | [View Post & Certificate](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7217067087255543808-dQ5P) |
-| BRIN (National Research Agency) | Sertifikat Apresiasi - Research System Integrity Securing | [View Post & Certificate](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7228645214138032128-wb93) |
+I am passionate about making the digital world safer. Through responsible disclosure, I have identified security vulnerabilities and received formal recognition from:
+* **NASA VDP** – Vulnerability Disclosure Program • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_surat-apresiasi-activity-7224044902408450049-LVH1)
+* **U.S. Department of Education** – Federal VDP • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_certificate-of-recognition-activity-7293046274155589632-H9um)
+* **KPK (Anti-Corruption Commission)** – Security Guest Invitation • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_alhamdulillah-pada-2-juli-2024-saya-diundang-activity-7214099749660971009-jsBS)
+* **DPR RI (Indonesian Parliament)** – IT Security Recognition • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7249336513505701888-bvrf)
+* **BMKG (Meteorological Agency)** – Critical System Securing • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7218524297970032640--BWZ)
+* **KOMINFO (Ministry of ICT)** – Cybersecurity Support • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7217067087255543808-dQ5P)
+* **BRIN (National Research Agency)** – System Integrity Securing • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7228645214138032128-wb93)
 
 ---
 
 ### Featured Engineering Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/RizkiTriamadewa/statistik_kurtosis">StatistikPro</a></h4>
-      <p>An interactive, full-featured statistical calculator designed to compute complex measurements like Kurtosis and variance dynamically.</p>
-      <code>Python</code> <code>Data Analysis</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/RizkiTriamadewa/ConveyorProject">VR Industrial HSE Simulation</a></h4>
-      <p>An immersive Virtual Reality environment developed in Unity for industrial HSE (Health, Safety, and Environment) training, simulating industrial conveyor operations.</p>
-      <code>Unity</code> <code>VR</code> <code>C#</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/RizkiTriamadewa/Mini-Conveyor-ESP8266">Mini-Conveyor-ESP8266</a></h4>
-      <p>An IoT-enabled mini conveyor system utilizing the ESP8266 microcontroller for remote monitoring, telemetry, and automated controls.</p>
-      <code>IoT</code> <code>ESP8266</code> <code>C++</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/RizkiTriamadewa/Smart-Car-Line-Follower">Dual-Mode Bluetooth Line Follower</a></h4>
-      <p>An automated robotics project featuring a Smart Line Follower car with real-time Bluetooth manual overrides and sensory automation.</p>
-      <code>Robotics</code> <code>Arduino</code> <code>Bluetooth</code>
-    </td>
-  </tr>
-</table>
+* **[StatistikPro](https://github.com/RizkiTriamadewa/statistik_kurtosis)** – Interactive Python statistical calculator for Kurtosis. `Python` `Data-Analysis`
+* **[VR Industrial HSE Simulation](https://github.com/RizkiTriamadewa/ConveyorProject)** – Immersive Unity VR HSE training for conveyors. `Unity` `VR` `C#`
+* **[Mini-Conveyor-ESP8266](https://github.com/RizkiTriamadewa/Mini-Conveyor-ESP8266)** – Microcontroller-based conveyor with IoT control. `IoT` `ESP8266` `C++`
+* **[Bluetooth Line Follower](https://github.com/RizkiTriamadewa/Smart-Car-Line-Follower)** – Smart automated car with Bluetooth overrides. `Robotics` `Arduino`
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiTriamadewa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkiTriamadewa&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="48%" align="center" valign="middle">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiTriamadewa&background=0d1117&fire=39d353&ring=39d353&currStreakNum=39d353&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+      <td width="4%" align="center" valign="middle"></td>
+      <td width="48%" align="center" valign="middle">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkiTriamadewa&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&area_color=2ea44f&hide_border=true&custom_title=Activity%20Graph" alt="GitHub Activity Graph" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
