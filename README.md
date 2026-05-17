@@ -92,16 +92,13 @@ I am passionate about making the digital world safer. Through responsible disclo
 ---
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiTriamadewa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=RizkiTriamadewa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="95%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiTriamadewa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkiTriamadewa&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <div align="center">
