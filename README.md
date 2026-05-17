@@ -4,16 +4,16 @@
 
   <br>
 
-  <h1>Hi, I'm Rizki Triamadewa</h1>
+  <h1 align="center">Hey 👋 What's Up? I'm Rizki</h1>
   <p><b>IoT & Systems Engineer | Security Researcher | Full Stack Developer</b></p>
 
   <!-- Quick Intro Badges -->
   <p>
     <a href="https://linkedin.com/in/rizkitriamadewa" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
     <a href="mailto:rizkitriamadewa@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
     </a>
   </p>
 
@@ -22,6 +22,14 @@
     <img src="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,kotlin,java,php,react,html,css,nodejs,mysql,sqlite,mongodb,firebase,arduino,linux,unity" height="60" alt="My Skills" />
+</div>
+
+###
 
 ---
 
@@ -49,46 +57,6 @@ I am passionate about making the digital world safer. Through responsible disclo
 | BMKG (Meteorological Agency) | Sertifikat Apresiasi - Critical Infrastructure Securing | [View Post & Certificate](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7218524297970032640--BWZ) |
 | KOMINFO (Ministry of ICT) | Sertifikat Apresiasi - Cybersecurity Support | [View Post & Certificate](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7217067087255543808-dQ5P) |
 | BRIN (National Research Agency) | Sertifikat Apresiasi - Research System Integrity Securing | [View Post & Certificate](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7228645214138032128-wb93) |
-
----
-
-### Technical Stack & Ecosystem
-
-Here is a curated snapshot of the technologies, tools, and platforms I work with:
-
-#### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
-
-#### Web Frontend & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-#### Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
-
-#### Hardware, IoT & Simulation
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-</p>
 
 ---
 
@@ -126,20 +94,13 @@ Here is a curated snapshot of the technologies, tools, and platforms I work with
 ### GitHub Activity & Stats
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiTriamadewa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=RizkiTriamadewa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="95%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=RizkiTriamadewa&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.herokuapp.com/?username=RizkiTriamadewa&theme=tokyonight&no-bg=true&no-border=true" height="150" alt="trophy graph"  />
+</div>
 
-  <br>
+###
 
-  <!-- Snake game contribution board -->
+<div align="center">
   <h3>Contributions Adventure</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RizkiTriamadewa/RizkiTriamadewa/output/github-contribution-grid-snake-dark.svg">
