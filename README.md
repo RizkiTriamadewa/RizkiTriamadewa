@@ -44,19 +44,6 @@ I am a sixth-semester student specializing in **Internet of Things (IoT)** syste
 
 ---
 
-### Cybersecurity Contributions & Recognition
-
-I am passionate about making the digital world safer. Through responsible disclosure, I have identified security vulnerabilities and received formal recognition from:
-* **NASA VDP** – Vulnerability Disclosure Program • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_surat-apresiasi-activity-7224044902408450049-LVH1)
-* **U.S. Department of Education** – Federal VDP • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_certificate-of-recognition-activity-7293046274155589632-H9um)
-* **KPK (Anti-Corruption Commission)** – Security Guest Invitation • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_alhamdulillah-pada-2-juli-2024-saya-diundang-activity-7214099749660971009-jsBS)
-* **DPR RI (Indonesian Parliament)** – IT Security Recognition • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7249336513505701888-bvrf)
-* **BMKG (Meteorological Agency)** – Critical System Securing • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7218524297970032640--BWZ)
-* **KOMINFO (Ministry of ICT)** – Cybersecurity Support • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7217067087255543808-dQ5P)
-* **BRIN (National Research Agency)** – System Integrity Securing • [Certificate & Post](https://www.linkedin.com/posts/rizkitriamadewa_sertifikat-apresiasi-activity-7228645214138032128-wb93)
-
----
-
 ### Featured Engineering Projects
 
 * **[StatistikPro](https://github.com/RizkiTriamadewa/statistik_kurtosis)** – Interactive Python statistical calculator for Kurtosis. `Python` `Data-Analysis`
