@@ -44,15 +44,6 @@ I am a sixth-semester student specializing in **Internet of Things (IoT)** syste
 
 ---
 
-### Featured Engineering Projects
-
-* **[StatistikPro](https://github.com/RizkiTriamadewa/statistik_kurtosis)** – Interactive Python statistical calculator for Kurtosis. `Python` `Data-Analysis`
-* **[VR Industrial HSE Simulation](https://github.com/RizkiTriamadewa/ConveyorProject)** – Immersive Unity VR HSE training for conveyors. `Unity` `VR` `C#`
-* **[Mini-Conveyor-ESP8266](https://github.com/RizkiTriamadewa/Mini-Conveyor-ESP8266)** – Microcontroller-based conveyor with IoT control. `IoT` `ESP8266` `C++`
-* **[Bluetooth Line Follower](https://github.com/RizkiTriamadewa/Smart-Car-Line-Follower)** – Smart automated car with Bluetooth overrides. `Robotics` `Arduino`
-
----
-
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
