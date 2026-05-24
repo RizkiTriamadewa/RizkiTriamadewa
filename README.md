@@ -4,7 +4,7 @@
 
   <br>
 
-  <h1 align="center">Hey 👋 What's Up? I'm Rizki Triamadewa</h1>
+  <h1 align="center">Hey! I'm Rizki Triamadewa</h1>
   <p><b>IoT & Systems Engineer | Security Researcher | Full Stack Developer</b></p>
 
   <!-- Quick Intro Badges -->
