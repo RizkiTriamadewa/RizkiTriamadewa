@@ -1,11 +1,14 @@
 <div align="center">
-  <!-- Profile Picture / GIF -->
-  <img src="https://raw.githubusercontent.com/RizkiTriamadewa/RizkiTriamadewa/main/profile.gif" width="180" style="border-radius: 50%; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);" alt="Profile GIF"/>
+  <!-- Animated glitch hero (traced from photo, dark/light + mobile aware) -->
+  <picture>
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/builder-profile-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/builder-profile-light.svg">
+    <img src="./assets/hero/builder-profile-dark.svg" alt="Rizki Triamadewa - IoT & Systems Engineer, Security Researcher, Full Stack Developer" width="100%">
+  </picture>
 
   <br>
-
-  <h1 align="center">Hey! I'm Rizki Triamadewa</h1>
-  <p><b>IoT & Systems Engineer | Security Researcher | Full Stack Developer</b></p>
 
   <!-- Quick Intro Badges -->
   <p>
