@@ -5,45 +5,14 @@
     <source media="(max-width: 760px)" srcset="./assets/hero/builder-profile-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero/builder-profile-light.svg">
-    <img src="./assets/hero/builder-profile-dark.svg" alt="Rizki Triamadewa - IoT & Systems Engineer, Security Researcher, Full Stack Developer" width="100%">
+    <img src="./assets/hero/builder-profile-dark.svg" alt="Rizki Triamadewa - IoT & Systems Engineer, Robotics & AMR, Security Researcher, Full Stack Developer" width="100%">
   </picture>
-
-  <br>
-
-  <!-- Quick Intro Badges -->
-  <p>
-    <a href="https://linkedin.com/in/rizkitriamadewa" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    </a>
-    <a href="mailto:rizkitriamadewa@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
-    </a>
-  </p>
 
   <!-- Visitor Counter Badge -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=00d2ff&style=flat-square&label=%F0%9F%91%81%20Profile%20Views" alt="Profile Views" />
   </p>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,kotlin,java,php,react,html,css,nodejs,mysql,sqlite,mongodb,firebase,arduino,linux,unity" height="60" alt="My Skills" />
-</div>
-
-###
-
----
-
-### About Me
-
-I am a sixth-semester student specializing in **Internet of Things (IoT)** systems, **Full-Stack Web/Mobile Application** development, and **Cybersecurity**. I have hands-on experience designing and implementing secure, innovative, and robust technological integrations between hardware and software.
-
-*   **Education:** Specializing in IoT Systems & Software Engineering
-*   **Core Focus:** Building high-performance, secure software and designing IoT architectures with safety-first principles.
-*   **Robotics & Simulation:** Experienced in microcontroller programming, automated robotics (Line Followers, Conveyors), and immersive game/simulation development (Unity VR/AR).
-*   **Offensive Security:** Actively engaged in responsible vulnerability disclosure (ethical hacking) to secure national and international critical infrastructures.
 
 ---
 
