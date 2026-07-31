@@ -7,11 +7,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero/builder-profile-light.svg">
     <img src="./assets/hero/builder-profile-dark.svg" alt="Rizki Triamadewa - IoT & Systems Engineer, Robotics & AMR, Security Researcher, Full Stack Developer" width="100%">
   </picture>
-
-  <!-- Visitor Counter Badge -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=00d2ff&style=flat-square&label=%F0%9F%91%81%20Profile%20Views" alt="Profile Views" />
-  </p>
 </div>
 
 ---
@@ -37,4 +32,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RizkiTriamadewa/RizkiTriamadewa/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RizkiTriamadewa/RizkiTriamadewa/output/pacman-contribution-graph.svg" width="100%">
   </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RizkiTriamadewa&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
