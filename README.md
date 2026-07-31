@@ -1,12 +1,6 @@
 <div align="center">
   <!-- Animated glitch hero (traced from photo, dark/light + mobile aware) -->
-  <picture>
-    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-mobile-dark.svg">
-    <source media="(max-width: 760px)" srcset="./assets/hero/builder-profile-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/builder-profile-light.svg">
-    <img src="./assets/hero/builder-profile-dark.svg" alt="Rizki Triamadewa - IoT & Systems Engineer, Robotics & AMR, Security Researcher, Full Stack Developer" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/RizkiTriamadewa/RizkiTriamadewa/main/assets/hero/builder-profile-dark.svg" alt="Rizki Triamadewa" width="100%">
 </div>
 
 ---
